@@ -1,0 +1,11 @@
+age,workclass,education_level,education-num,marital-stat,occupation,relationship,race,sex,capital-gain,capital-loss,hours-per-week,native-country,income,Name
+30,Self-emp-inc,Bachelors,13,Married-civ,Exec-mana,Husband,White,Male,2174,0,13,United-Stat,>50K,John Smith
+50,Private,11th,7,Married-civ,Handlers-cl,Husband,Black,Male,0,0,40,United-Stat,<=50K,David Johnson
+38,Private,Bachelors,13,Married-civ,Prof-specia,Wife,White,Female,0,0,40,Cuba,<=50K,Emily Williams
+53,Private,HS-grad,9,Married-civ,Handlers-cl,Husband,Black,Male,0,0,40,United-Stat,<=50K,Michael Brown
+28,Private,Masters,14,Married-civ,Exec-mana,Wife,Black,Female,0,0,40,United-Stat,<=50K,Ashley Taylor
+37,Private,Some-colle,10,Married-civ,Exec-mana,Husband,White,Male,0,0,40,United-Stat,>50K,James Anderson
+49,Private,9th,5,Married-sp,Other-servi,Not-in-fam,Black,Female,0,0,16,Jamaica,<=50K,Sarah Martinez
+52,Self-emp-inc,HS-grad,9,Married-civ,Exec-mana,Husband,White,Male,0,0,45,United-Stat,>50K,Thomas Wilson
+31,Private,14,14,Never-married,Prof-specia,Not-in-fam,White,Female,14084,0,50,United-Stat,>50K,Jennifer Lee
+42,Private,Bachelors,13,Married-civ,Exec-mana,Husband,White,Male,5178,0,40,United-Stat,>50K,Robert Davis
